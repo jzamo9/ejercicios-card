@@ -1,0 +1,33 @@
+
+/* .card-body {
+    margin: 50px;
+} */
+
+html {
+    background-color:rgb(247, 232, 212);
+}
+
+body {
+    margin: 0%;
+    padding: 0%;
+}
+/* 
+.btn {
+    width: 100%;
+} */
+
+.box-1 {
+    width: 200px;
+    height: 400px;
+    background-image: url(../images/image-product-desktop.jpg);
+    background-size: 100%;
+}
+
+.box-2 {
+    background-color: gray;
+ 
+}
+
+.row {
+    background-color:rgb(247, 232, 212);
+}
